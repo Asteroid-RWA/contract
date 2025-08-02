@@ -13,3 +13,10 @@ artifacts
 .deps
 
 .DS_Store
+
+note.txt
+
+.openzeppelin
+.states
+
+yarn.lock
